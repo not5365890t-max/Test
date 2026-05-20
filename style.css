@@ -1,0 +1,16 @@
+/* style.css */
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  image-rendering: pixelated;
+  width: 1280px;
+  height: 720px;
+  background: #111;
+}
